@@ -58,13 +58,7 @@ The **Hello react app** is just a plain greeting app built using react and rails
 
 - **5 different greeing messages**
 - **Api**
-- **Interactive Navbar**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Live demo <a name="live-demo"></a>
-
-Click this [live demo](https://budget-app-0yss.onrender.com)
+- **Interactive Navbar** 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
